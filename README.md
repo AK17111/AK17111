@@ -14,11 +14,11 @@
 
 ### About
 
--  B.Eng. in Computer Engineering, Purdue University — Class of 2026
--  Currently building CPU architecture, embedded systems, and test/deployment automation
--  Interned at **SanDisk** (validation automation, Qt GUI, Ansible deploys) and **Western Digital** (Jenkins CI/CD, Playwright test infra)
--  Recent projects: a 5-stage pipelined CPU on FPGA, an AHB-Lite USB 1.0 verification suite, and embedded STM32 systems
--  Reach me at [kanchan@purdue.edu](mailto:kanchan@purdue.edu)
+- 🎓 B.Eng. in Computer Engineering, Purdue University — Class of 2026
+- 🔧 Currently building CPU architecture, embedded systems, and test/deployment automation
+- 💼 Interned at **SanDisk** (validation automation, Qt GUI, Ansible deploys) and **Western Digital** (Jenkins CI/CD, Playwright test infra)
+- 🌱 Recent projects: a 5-stage pipelined CPU on FPGA, an AHB-Lite USB 1.0 verification suite, and embedded STM32 systems
+- 📫 Reach me at [kanchan@purdue.edu](mailto:kanchan@purdue.edu)
 
 ### Languages & Tools
 
@@ -40,11 +40,11 @@
 
 | Project | Description |
 |---|---|
-| [**5-Stage Pipelined CPU**](https://github.com/AK17111) | Single-cycle & 5-stage pipelined CPU on Cyclone IV FPGA — hazard detection, forwarding, BPT/BTB branch prediction, multi-core MSI coherency |
-| [**AHB-Lite USB 1.0 Verification**](https://github.com/AK17111) | USB 1.0 bulk-transfer endpoint with AHB-Lite client interface; SystemVerilog testbenches verified via QuestaSim |
-| [**Who Wants to Be a Millionaire**](https://github.com/AK17111) | Two-player trivia game on STM32 with TFT displays, USART inter-board comms, and Embedded C |
+| [**5-Stage Pipelined CPU**](https://github.com/AK17111/riscv-multicore-cpu) | Single-cycle & 5-stage pipelined CPU on Cyclone IV FPGA — hazard detection, forwarding, BPT/BTB branch prediction, multi-core MSI coherency |
+| [**AHB-Lite USB 1.0 Verification**](https://github.com/AkshathRaghav/usb-cdl) | USB 1.0 bulk-transfer endpoint with AHB-Lite client interface; SystemVerilog testbenches verified via QuestaSim |
+| [**Who Wants to Be a Millionaire**](https://ak17111.github.io/#projects) | Two-player trivia game on STM32 with TFT displays, USART inter-board comms, and Embedded C |
 
-*(Repo links above point to my profile until each project repo is pushed — see my [portfolio site](https://ak17111.github.io/) for the full write-ups.)*
+*(RISC-V and AHB-Lite repos are private (school projects) — see my [portfolio site](https://ak17111.github.io/) for the full write-ups. Millionaire repo coming soon.)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AK17111&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="AK17111's GitHub stats" />

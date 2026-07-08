@@ -14,11 +14,11 @@
 
 ### About
 
-- 🎓 B.Eng. in Computer Engineering, Purdue University — Class of 2026
-- 🔧 Currently building CPU architecture, embedded systems, and test/deployment automation
-- 💼 Interned at **SanDisk** (validation automation, Qt GUI, Ansible deploys) and **Western Digital** (Jenkins CI/CD, Playwright test infra)
-- 🌱 Recent projects: a 5-stage pipelined CPU on FPGA, an AHB-Lite USB 1.0 verification suite, and embedded STM32 systems
-- 📫 Reach me at [kanchan@purdue.edu](mailto:kanchan@purdue.edu)
+-  B.Eng. in Computer Engineering, Purdue University — Class of 2026
+-  Currently building CPU architecture, embedded systems, and test/deployment automation
+-  Interned at **SanDisk** (validation automation, Qt GUI, Ansible deploys) and **Western Digital** (Jenkins CI/CD, Playwright test infra)
+-  Recent projects: a 5-stage pipelined CPU on FPGA, an AHB-Lite USB 1.0 verification suite, and embedded STM32 systems
+-  Reach me at [kanchan@purdue.edu](mailto:kanchan@purdue.edu)
 
 ### Languages & Tools
 

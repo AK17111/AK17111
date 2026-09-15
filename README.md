@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Armaan Kanchan 👋</h1>
 
 <p align="center">
-  Computer Engineering @ Purdue University — low-level systems, embedded, and test/deployment automation.
+MSECE @ UW Madison  Computer Engineering @ Purdue University | low-level systems, embedded, and test/deployment automation.
 </p>
 
 <p align="center">

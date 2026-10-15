@@ -47,7 +47,7 @@ MSECE @ UW Madison  Computer Engineering @ Purdue University | low-level systems
 | [**AHB-Lite USB 1.0 Verification**](https://github.com/AkshathRaghav/usb-cdl) | USB 1.0 bulk-transfer endpoint with AHB-Lite client interface; SystemVerilog testbenches verified via QuestaSim |
 | [**Who Wants to Be a Millionaire**](https://ak17111.github.io/#projects) | Two-player trivia game on STM32 with TFT displays, USART inter-board comms, and Embedded C |
 
-*(Computer Networks, JOS, and RISC-V CPU repos are private — live, reused Purdue course assignments — see my [portfolio site](https://ak17111.github.io/) for the full write-ups. GoldenForm and Millionaire repos coming soon.)*
+*(Computer Networks, JOS, and RISC-V CPU repos are private - live, reused Purdue course assignments - see my [portfolio site](https://ak17111.github.io/) for the full write-ups)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AK17111&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="AK17111's GitHub stats" />

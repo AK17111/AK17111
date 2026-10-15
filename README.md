@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Armaan Kanchan 👋</h1>
 
 <p align="center">
-MSECE @ UW Madison  Computer Engineering @ Purdue University | low-level systems, embedded, and test/deployment automation.
+MSECE @ UW Madison | Computer Engineering @ Purdue University | low-level systems, embedded, and test/deployment automation.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ MSECE @ UW Madison  Computer Engineering @ Purdue University | low-level systems
 
 ### About
 
--  B.Eng. in Computer Engineering, Purdue University — Class of 2026
+-  B.Eng. in Computer Engineering, Purdue University - Class of 2026
 -  Currently building CPU architecture, embedded systems, and test/deployment automation
 -  Interned at **SanDisk** (validation automation, Qt GUI, Ansible deploys) and **Western Digital** (Jenkins CI/CD, Playwright test infra)
 -  Recent projects: a 5-stage pipelined CPU on FPGA, an AHB-Lite USB 1.0 verification suite, and embedded STM32 systems
@@ -40,7 +40,7 @@ MSECE @ UW Madison  Computer Engineering @ Purdue University | low-level systems
 
 | Project | Description |
 |---|---|
-| [**Computer Networks — HTTP, Routing & Reliable Transport**](https://github.com/AK17111/Computer_Networks_ECE463) | Socket-level HTTP client/server, a distance-vector routing protocol with split horizon, and a custom reliable transport protocol (SACK, adaptive RTO, fast retransmit) over an intentionally lossy link |
+| [**Computer Networks - HTTP, Routing & Reliable Transport**](https://github.com/AK17111/Computer_Networks_ECE463) | Socket-level HTTP client/server, a distance-vector routing protocol with split horizon, and a custom reliable transport protocol (SACK, adaptive RTO, fast retransmit) over an intentionally lossy link |
 | [**JOS — Unix-like Operating System**](https://github.com/AK17111/JOS) | x86 Unix-like OS built from scratch across MIT 6.828's lab sequence — boot loader, virtual memory, user environments/traps, preemptive multitasking with copy-on-write fork and IPC, and a file system with a shell |
 | [**GoldenForm — Wearable Swim Tracker**](https://ak17111.github.io/projects/goldenform-swim-tracker/) | Hand-worn swim tracker: custom PCB (ESP32-S3 + 9-axis IMU), ESP-IDF firmware, and a Wi-Fi dashboard with drift-corrected 3D stroke replay |
 | [**5-Stage Pipelined CPU**](https://github.com/AK17111/riscv-multicore-cpu) | Single-cycle & 5-stage pipelined CPU on Cyclone IV FPGA — hazard detection, forwarding, BPT/BTB branch prediction, multi-core MSI coherency |
